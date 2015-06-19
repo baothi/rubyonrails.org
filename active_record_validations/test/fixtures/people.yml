@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  terms_of_service: MyString
+  email: MyString
+  bio: MyString
+  password: MyString
+  registration_number: MyString
+  points: 1
+  games_played: 1
+
+two:
+  name: MyString
+  terms_of_service: MyString
+  email: MyString
+  bio: MyString
+  password: MyString
+  registration_number: MyString
+  points: 1
+  games_played: 1
